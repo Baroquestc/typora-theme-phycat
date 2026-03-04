@@ -847,7 +847,7 @@ li.md-list-item {
     border-top: 3px dashed var(--element-color-shallow);
     margin: 30px 0;
     opacity: .6;
-    transform: scaleX(.8);
+    transform: scaleX(1);
     transition: all .4s ease
 }
 
